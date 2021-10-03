@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-area{
+    background-image: url("./image/29493.jpg"); 
+     height: 100vh;
+     width: 100%;
+     background-size:cover;
+     background-position: center center;font-family: sans-serif;
+ }
+.menu-area{
+  position:static;
+}
+.mega-area{
+  position:absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+  padding: 15px;
+}
+.dropdown-item{
+  padding: 5px 0;
+}
+h4{
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+.navbar{
+  margin-top: 25px;
+  padding: 15px;
+  } 
+
+.navbar li a:hover{
+  text-decoration: underline rgb(182, 182, 4) 4px solid; 
+}
+.button{
+  color: white;
+  background-color: rgb(7, 83, 184);
+  height: 30px;
+  padding: 3px;
+}
+
+
+
+    
